@@ -4,7 +4,7 @@
     <string name="serviceQuestion">How was the service?</string>
     <string name="round_tip">Round up tip?</string>
     <string name="calculate_button">Calculate</string>
-    <string name="tip_amount">Tip amount</string>
+    <string name="tip_amount">Tip amount: %s</string>
     <string name="okay_15">Okay (15%)</string>
     <string name="good_18">Good (18%)</string>
     <string name="amazing_20">Amazing (20%)</string>
