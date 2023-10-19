@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "cat.insvidreres.inf.layouttheory"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "cat.insvidreres.inf.layouttheory"
